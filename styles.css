@@ -1,0 +1,37 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: brown;
+    font-family: cursive;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+body {
+    background-image: url('https://media.giphy.com/media/h2U7mw5FtSqDenaGwJ/giphy.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+li {
+    font-family: 'Fraunces', serif;
+}
+img {
+    width: 202px; 
+    height: 120px;
+}
+.without {
+    font-family: 'Satisfy', cursive;
+}
+.blue {
+    color:#4285F4;
+}
+.red{
+    color:#DB4437;
+}
+.green{
+    color: #0F9D58;
+}
